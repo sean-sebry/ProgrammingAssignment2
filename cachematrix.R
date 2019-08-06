@@ -1,15 +1,22 @@
-## Put comments here that give an overall description of what your
-## functions do
+## makeCacheMatrix and cacheSolve are functions that save time in computing matrix inverses
 
-## Write a short comment describing this function
+## makeCacheMatrix creates a "matrix" which contains the getters and setters
 
 makeCacheMatrix <- function(x = matrix()) {
+  
+  
 
 }
 
 
-## Write a short comment describing this function
+
+
+
+
+## cacheSolve solves the inversion for the given matrix utilizing makeCacheMatrix
 
 cacheSolve <- function(x, ...) {
-        ## Return a matrix that is the inverse of 'x'
+  
+  ## Return a matrix that is the inverse of 'x'
+  
 }
