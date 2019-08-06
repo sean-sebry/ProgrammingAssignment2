@@ -11,8 +11,6 @@ makeCacheMatrix <- function(x = matrix()) {
 
 
 
-
-
 ## cacheSolve solves the inversion for the given matrix utilizing makeCacheMatrix
 
 cacheSolve <- function(x, ...) {
